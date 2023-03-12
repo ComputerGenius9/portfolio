@@ -4,6 +4,8 @@
 //Для всіх сторінок сайту
 a {
     text-decoration: none;
+    color: white;
+    z-index: 50;
 }
 .wrapper{
     display: flex;
